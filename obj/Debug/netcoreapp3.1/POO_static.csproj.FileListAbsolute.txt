@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\POO_static\bin\Debug\netcoreapp3.1\POO_static.exe
+C:\Users\fic\Desktop\POO_static\bin\Debug\netcoreapp3.1\POO_static.deps.json
+C:\Users\fic\Desktop\POO_static\bin\Debug\netcoreapp3.1\POO_static.runtimeconfig.json
+C:\Users\fic\Desktop\POO_static\bin\Debug\netcoreapp3.1\POO_static.runtimeconfig.dev.json
+C:\Users\fic\Desktop\POO_static\bin\Debug\netcoreapp3.1\POO_static.dll
+C:\Users\fic\Desktop\POO_static\bin\Debug\netcoreapp3.1\POO_static.pdb
+C:\Users\fic\Desktop\POO_static\obj\Debug\netcoreapp3.1\POO_static.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\POO_static\obj\Debug\netcoreapp3.1\POO_static.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\POO_static\obj\Debug\netcoreapp3.1\POO_static.AssemblyInfo.cs
+C:\Users\fic\Desktop\POO_static\obj\Debug\netcoreapp3.1\POO_static.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\POO_static\obj\Debug\netcoreapp3.1\POO_static.dll
+C:\Users\fic\Desktop\POO_static\obj\Debug\netcoreapp3.1\POO_static.pdb
+C:\Users\fic\Desktop\POO_static\obj\Debug\netcoreapp3.1\POO_static.genruntimeconfig.cache
